@@ -1,12 +1,7 @@
 import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
 import { XStack, YStack } from "@/components/layout";
-import {
-  Calendar1Icon,
-  CalendarDaysIcon,
-  PencilIcon,
-  SendIcon,
-} from "lucide-react";
+import { CalendarDaysIcon, PencilIcon, SendIcon } from "lucide-react";
 import {
   Accordion,
   AccordionContent,

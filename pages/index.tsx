@@ -1,4 +1,4 @@
-import { XStack, YStack } from "@/components/layout";
+import { YStack } from "@/components/layout";
 import { ScheduleForm } from "./_schedule-form";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";

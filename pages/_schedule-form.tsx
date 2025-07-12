@@ -87,7 +87,7 @@ function MessageInput() {
   );
 }
 function ScheduleCalendar() {
-  const { register, formState } = useFormContext();
+  const { formState } = useFormContext();
 
   return (
     <YStack className="gap-2">
